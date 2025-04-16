@@ -1,2 +1,2 @@
 # Aulas-Phyton
-Este repositório servira para guardar meus estudos na linguagem phyton
+Este repositório servirá para guardar meus estudos na linguagem phyton
